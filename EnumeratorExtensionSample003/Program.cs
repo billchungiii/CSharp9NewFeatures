@@ -15,7 +15,7 @@ namespace EnumeratorExtensionSample003
         }
     }
 
-    public static class RangeEXtension
+    public static class RangeExtension
     {
         public static IEnumerator<int> GetEnumerator(this Range range)
         {
